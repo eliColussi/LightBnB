@@ -50,7 +50,7 @@ const getUserWithId = function (id) {
     });
 };
 exports.getUserWithId = getUserWithId;
-
+console.log('hello')
 
 /**
  * Add a new user to the database.
