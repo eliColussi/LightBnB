@@ -23,3 +23,4 @@ VALUES
 (1, 1, 1, 99, 'messages'),
 (2, 2, 1, 80, 'messages'),
 (3, 3, 2, 95, 'messages');
+ 
