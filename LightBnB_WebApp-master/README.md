@@ -1,5 +1,5 @@
 # LightBnB
-
+This project is an airbnb clone that utilizes sql queries to navigate a database and sisplay information to the webpage.
 ## Project Structure
 
 ```
